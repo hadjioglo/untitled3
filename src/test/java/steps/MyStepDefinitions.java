@@ -11,7 +11,7 @@ public class MyStepDefinitions {
     }
 
     @When("user runs the test")
-    public void userRunsTheTest1() {
+    public void userRunsTheTest() {
         System.out.println("Test is running");
     }
 
